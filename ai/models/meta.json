@@ -1,5 +1,5 @@
 {
-  "model_name": "LogisticRegression_calibrated_isotonic_cv5",
+  "model_name": "LogisticRegression",
   "model_version": "v1.0",
   "threshold": 0.3764934832414938,
   "feature_order": [
