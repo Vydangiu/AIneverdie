@@ -1,7 +1,7 @@
 {
   "model_name": "LogisticRegression_calibrated_isotonic_cv5",
   "model_version": "v1.0",
-  "threshold": 0.5251938278953163,
+  "threshold": 0.5411010617308956,
   "feature_order": [
     "age",
     "sex",
